@@ -1,2 +1,2 @@
-# IS733_Data_Mining
+# IS_733_Data_Mining
 Homeworks
